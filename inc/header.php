@@ -14,7 +14,7 @@
 
       <nav>
         <ul>
-          <li><a href="index.php">Hom</a></li>
+          <li><a href="index.php">Home</a></li>
         </ul>
       </nav>
 
