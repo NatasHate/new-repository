@@ -6,6 +6,13 @@
 
 <h1>Home</h1>
 <p>Test</p>
-<p>modif par Rom1</p>
+
+<ol>
+  <li>Vive</li>
+  <li>la</li>
+  <li>France</li>
+  <li>FFS !</li>
+  <li>Et stou</li>
+</ol>
 
 <?php include('inc/footer.php') ?>
